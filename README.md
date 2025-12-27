@@ -1,6 +1,3 @@
-# Streamlit_dashboard
-Streamlit Student Performance Analyzer
-
 # Student Performance Analyzer
 
 This is a Streamlit web application to analyze and visualize student academic performance.
